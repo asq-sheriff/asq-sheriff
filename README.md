@@ -6,11 +6,6 @@ Let's connect and explore how we can leverage AI to revolutionize industries! Op
     - Intelligent Workflow Agents
     - PyTorch, TensorFlow and CoreML
     - RAG with Fine-tuning the encoders on domain-specific data 
-    - HL7 FHIR, CAQH, Epic, Availity
-    - EHRs, Claims Data, Provider Systems
-    - PDex - Payer Data Exchange
-    - Mirth Connect Integration Engine.
-    - HL7 Da Vinci Project and emerging FHIR-based use cases for payer-provider data exchange.
   - Cloud Computing & DevOps (AWS, GCP)
     - Architectures: Microservices, containerization (Docker, Kubernetes)
     - Practices: CI/CD pipelines
@@ -25,6 +20,12 @@ Let's connect and explore how we can leverage AI to revolutionize industries! Op
     - Relational: Experienced with MySQL, PostgreSQL, DB2, and Oracle.
     - NoSQL: Proficient in MongoDB, Milvus, and Pinecone.
     - Data Governance: Well-versed in data governance frameworks and practices, ensuring compliance with HIPAA regulations.
+  - Healthcare
+    - HL7 FHIR, CAQH, Epic, Availity
+    - EHRs, Claims Data, Provider Systems
+    - PDex - Payer Data Exchange
+    - Mirth Connect Integration Engine.
+    - HL7 Da Vinci Project and emerging FHIR-based use cases for payer-provider data exchange.
 - 🌱 I’m currently learning:
   - RAG with Fusion-in-Decoder (FiD) / Knowledge-Aware RAG Models / Approximate nearest neighbor (ANN) search techniques like FAISS or ScaNN
   - CoreML for iOS 
