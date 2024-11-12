@@ -1,0 +1,13 @@
+erDiagram
+    beneficiaries ||--o{ inpatient_claims : "receives care"
+    beneficiaries ||--o{ outpatient_claims : "receives care"
+    beneficiaries ||--o{ advantage_claims : "enrolls in"
+    beneficiaries ||--o{ prescription_claims : "receives medication"
+    beneficiaries ||--o{ dme_claims : "uses equipment"
+    beneficiaries ||--o{ hospice_episodes : "receives hospice"
+    providers ||--o{ inpatient_claims : "provides"
+    providers ||--o{ outpatient_claims : "provides"
+    providers ||--o{ advantage_claims : "serves"
+    providers ||--o{ referral_network : "participates"
+    inpatient_claims ||--o{ inpatient_diagnoses : "has"
+    inpatient_claims ||--o{ inpatient_procedures : "includes"
