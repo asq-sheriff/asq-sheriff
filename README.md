@@ -1,7 +1,7 @@
 # AEJAZ SHERIFF QUARAISHI
 
 **Principal AI Architect | Healthcare Systems Architecture | Hands-On Technical Leadership**  
-Atlanta, GA | [LinkedIn](https://linkedin.com/in/asheriff) | asq.sheriff@pm.me | 470-404-7991
+Atlanta, GA | [LinkedIn](https://linkedin.com/in/asheriff) | asq.sheriff@pm.me 
 
 ---
 
