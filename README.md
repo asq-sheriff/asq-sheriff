@@ -114,7 +114,7 @@ current_project = {
 
 - [LinkedIn](https://linkedin.com/in/asheriff)
 - Email: asq.sheriff@pm.me  
-- Atlanta, GA | 470-404-7991
+
 
 ---
 
