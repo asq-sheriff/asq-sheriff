@@ -177,6 +177,7 @@ From 12 years as lead enterprise architect for Blue Cross Blue Shield (serving 6
 
 - **ITIL 4** Foundation
 - *In Progress:* Google ML Engineer
+- *In Progress:* Google Cloud Architect
 
 </td>
 </tr>
