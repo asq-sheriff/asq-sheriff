@@ -85,8 +85,8 @@ From 12 years as lead enterprise architect for Blue Cross Blue Shield (serving 6
 
 ## 🏆 Featured Projects
 
-### [MultiDB-Chatbot](https://github.com/asq-sheriff/MultiDB-Chatbot)
-[![Stars](https://img.shields.io/github/stars/asq-sheriff/MultiDB-Chatbot?style=social)](https://github.com/asq-sheriff/MultiDB-Chatbot)
+### [MultiDB-AI](https://github.com/asq-sheriff/MultiDB-AI)
+[![Stars](https://img.shields.io/github/stars/asq-sheriff/MultiDB-AI?style=social)](https://github.com/asq-sheriff/MultiDB-AI)
 
 **Production-Ready RAG with Polyglot Persistence**
 
