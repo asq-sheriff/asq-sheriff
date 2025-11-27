@@ -112,19 +112,6 @@ From 12 years as lead enterprise architect for Blue Cross Blue Shield (serving 6
 
 ---
 
-### [Lilo_Senior_Therapist](https://github.com/asq-sheriff/Lilo_Senior_Therapist)
-**HIPAA-Eligible AI Healthcare Agent**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-- Real-time C-SSRS crisis evaluation with 100% recall, <5% false positives
-- Semantic memory architecture for longitudinal care personalization
-- Multi-role dashboards with secure cloud scaling
-
----
-
 ### [terraform-aws-multi-az-production](https://github.com/asq-sheriff/terraform-aws-multi-az-production)
 **Battle-Tested AWS VPC Infrastructure**
 
