@@ -103,6 +103,15 @@ From 12 years as lead enterprise architect for Blue Cross Blue Shield (serving 6
 
 ---
 
+### [Lilo-Overview](https://github.com/asq-sheriff/Lilo-Overview)
+**Lilo Therapeutic AI Platform - Architecture Overview**
+
+- Comprehensive system design documentation for the Lilo platform
+- Healthcare AI architecture patterns and best practices
+- Production deployment strategies for therapeutic AI
+
+---
+
 ### [Lilo_Senior_Therapist](https://github.com/asq-sheriff/Lilo_Senior_Therapist)
 **HIPAA-Eligible AI Healthcare Agent**
 
