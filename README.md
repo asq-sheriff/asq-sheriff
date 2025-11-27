@@ -160,15 +160,12 @@ From 12 years as lead enterprise architect for Blue Cross Blue Shield (serving 6
 <td>
 
 - **TOGAF 9.1** Certified Enterprise Architect
-- **AWS Solutions Architect** Professional
-- **AWS Machine Learning** Specialist
-- **Databricks** Certified ML
+- **HL7 FHIR** Proficiency
+- **HIPAA** Security Officer
 
 </td>
 <td>
 
-- **HL7 FHIR** Proficiency
-- **HIPAA** Security Officer
 - **ITIL 4** Foundation
 - *In Progress:* Google ML Engineer
 
