@@ -7,7 +7,7 @@ Atlanta, GA | [LinkedIn](https://linkedin.com/in/asheriff) | asq.sheriff@pm.me
 
 ## 🚀 Executive Profile
 
-From 12 years as lead enterprise architect for Blue Cross Blue Shield (serving 6M+ members) to 10 years in IBM Labs and now Principal Architect at Pragmatic Logic AI, I develop production-grade AI healthcare platforms that meet rigorous clinical, regulatory, and operational requirements. I deliver FDA-ready therapeutic AI, robust MLOps, and resilient, scalable infrastructure—backed by real “hands on” delivery and 28 years industry mastery.
+From 12 years as lead enterprise architect for Blue Cross Blue Shield (serving 6M+ members) to 10 years in IBM Labs and now Principal Architect at Pragmatic Logic AI, I develop production-grade AI healthcare platforms that meet rigorous clinical, regulatory, and operational requirements. I deliver FDA-ready therapeutic AI, robust MLOps, and resilient, scalable infrastructure—backed by real "hands on" delivery and 28 years industry mastery.
 
 - **Clinical AI Quality:** Delivered 93.3/100 therapeutic quality scores—40% above national CMS 5-Star benchmarks—using responsible AI frameworks and cross-encoder architectures.
 - **Enterprise & Healthcare Systems:** Deep mastery of architectures (TOGAF 9.1, HL7 FHIR, Epic/Cerner, EDI 837/835) and hands-on MLOps, event-driven integration, security.
@@ -30,11 +30,11 @@ From 12 years as lead enterprise architect for Blue Cross Blue Shield (serving 6
 ## 🏆 Featured Projects & Repositories
 
 ### [MultiDB-Chatbot](https://github.com/asq-sheriff/MultiDB-Chatbot)
-**Clinical-Grade RAG Chatbot | FastAPI, PostgreSQL, Redis, ScyllaDB**
-- Production multi-database, enterprise-ready RAG platform (1000+ concurrent users, <100ms latency, HIPAA controls).
-- Built-in authentication, rate limiting, billing, and audit logging.
-- AI/ML: PyTorch, MLflow pipeline, FAISS vector search, automated drift detection.
-- Achieved 98.7% accuracy, with clinical intent classification spanning 10+ therapeutic intents (92-95% accuracy).
+**Production-Ready RAG with Polyglot Persistence | FastAPI, MongoDB, PostgreSQL, ScyllaDB, Redis**
+- Two-plane architecture separating data ingestion from real-time serving for independent scaling and zero-downtime deployments.
+- Polyglot persistence: MongoDB Atlas (vector search), PostgreSQL (auth/billing), ScyllaDB (conversation logs), Redis (caching).
+- Enterprise patterns: JWT auth with RBAC, usage-based billing, rate limiting, structured logging.
+- Complete RAG pipeline with LangGraph agent, semantic search, and conversation memory management.
 
 ### [Lilo_Senior_Therapist](https://github.com/asq-sheriff/Lilo_Senior_Therapist)
 **HIPAA-Eligible AI Healthcare Agent | Mental Health**
