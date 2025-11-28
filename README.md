@@ -148,7 +148,8 @@ A reusable Terraform module for deploying secure, scalable AWS VPC infrastructur
 ![Ruff](https://img.shields.io/badge/Linter-Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
 ![Pre-commit](https://img.shields.io/badge/Pre--commit-Enabled-brightgreen?style=flat-square)
 ![Mypy](https://img.shields.io/badge/Mypy-Type_Checked-blue?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Bandit](https://img.shields.io/badge/Security-Bandit-red?style=flat-square)
+![Cookiecutter](https://img.shields.io/badge/Cookiecutter-Template-orange?style=flat-square)
 
 A zero-config Cookiecutter template that scaffolds production-ready Python projects with modern tooling and automated quality gates:
 
@@ -162,7 +163,12 @@ A zero-config Cookiecutter template that scaffolds production-ready Python proje
 - **Modern Toolchain**: Ruff (unified linter/formatter), Mypy, Pytest, Bandit security scanning
 - **Automated Quality**: Pre-commit hooks for lint, format, type-check, and security on every commit
 - **Production Patterns**: Typer CLI scaffolding, Rich terminal UI, conventional commits with Commitizen
-- **Developer Experience**: PyCharm File Watchers support, comprehensive `.gitignore`, unified `pyproject.toml`
+- **Rich Documentation**: Mermaid diagrams for architecture, workflow, and toolchain visualization
+
+```mermaid
+flowchart LR
+    CODE[Your Code] --> RUFF[Ruff] --> MYPY[Mypy] --> PYTEST[Pytest] --> BANDIT[Bandit] --> COMMIT[Commit]
+```
 
 > *"The foundation I use for all my AI/ML projects—consistent tooling means I can focus on solving problems, not configuring environments."*
 
