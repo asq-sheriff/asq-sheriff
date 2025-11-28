@@ -114,14 +114,28 @@ A production-ready Retrieval-Augmented Generation (RAG) system demonstrating pol
 ---
 
 ### [terraform-aws-multi-az-production](https://github.com/asq-sheriff/terraform-aws-multi-az-production)
-**Battle-Tested AWS VPC Infrastructure for AI Workloads**
+[![Stars](https://img.shields.io/github/stars/asq-sheriff/terraform-aws-multi-az-production?style=social)](https://github.com/asq-sheriff/terraform-aws-multi-az-production)
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+**Production-Grade AWS VPC Module | Multi-AZ | Infrastructure as Code | Enterprise-Ready**
 
-- Multi-AZ public/private subnets with auto-failover
-- HIPAA-compliant security controls and audit logging
-- Blue-green deployment foundations for production AI
+![Terraform](https://img.shields.io/badge/Terraform-%3E%3D1.0-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-VPC-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![IaC](https://img.shields.io/badge/IaC-Production--Ready-success?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+A reusable Terraform module for deploying secure, scalable AWS VPC infrastructure—the foundation for production AI workloads:
+
+| Metric | Value |
+|--------|-------|
+| **Resources Orchestrated** | 15+ AWS resources |
+| **Network Capacity** | 65,000+ IPs (/16 VPC) |
+| **Deployment Time** | ~3 minutes |
+| **Availability** | Multi-AZ (2-6 zones) |
+
+- **Network Architecture**: Public/private subnet segmentation with NAT Gateway for secure egress
+- **Security Features**: VPC Flow Logs, Network ACLs, private-first design pattern
+- **Enterprise Patterns**: Consistent tagging, input validation, modular structure
+- **CI/CD Pipeline**: GitHub Actions with automated Terraform validation
 
 ---
 
