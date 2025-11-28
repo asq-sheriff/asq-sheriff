@@ -140,13 +140,31 @@ A reusable Terraform module for deploying secure, scalable AWS VPC infrastructur
 ---
 
 ### [cookiecutter-modern-python](https://github.com/asq-sheriff/cookiecutter-modern-python)
-**Modern Python Development Accelerator**
+[![Stars](https://img.shields.io/github/stars/asq-sheriff/cookiecutter-modern-python?style=social)](https://github.com/asq-sheriff/cookiecutter-modern-python)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+**Production-Ready Python Project Template | Cookiecutter | Modern Tooling | Best Practices**
 
-- Ruff, pre-commit, GitHub Actions CI/CD out of the box
-- Accelerates production delivery for AI/ML codebases
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ruff](https://img.shields.io/badge/Linter-Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
+![Pre-commit](https://img.shields.io/badge/Pre--commit-Enabled-brightgreen?style=flat-square)
+![Mypy](https://img.shields.io/badge/Mypy-Type_Checked-blue?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+A zero-config Cookiecutter template that scaffolds production-ready Python projects with modern tooling and automated quality gates:
+
+| Metric | Value |
+|--------|-------|
+| **Linting Speed** | 10-100x faster (Ruff vs Black+isort+Flake8) |
+| **Type Coverage** | 100% with Mypy strict mode |
+| **Setup Time** | ~30 seconds to scaffold |
+| **Quality Gates** | 5 automated pre-commit hooks |
+
+- **Modern Toolchain**: Ruff (unified linter/formatter), Mypy, Pytest, Bandit security scanning
+- **Automated Quality**: Pre-commit hooks for lint, format, type-check, and security on every commit
+- **Production Patterns**: Typer CLI scaffolding, Rich terminal UI, conventional commits with Commitizen
+- **Developer Experience**: PyCharm File Watchers support, comprehensive `.gitignore`, unified `pyproject.toml`
+
+> *"The foundation I use for all my AI/ML projects—consistent tooling means I can focus on solving problems, not configuring environments."*
 
 ---
 
