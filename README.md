@@ -76,7 +76,7 @@ The comprehensive checklist for taking AI from demo to production—addressing w
 
 ---
 
-### [MultiDB-AI](https://github.com/asq-sheriff/MultiDB_RAG_AI)
+### [MultiDB_RAG_AI](https://github.com/asq-sheriff/MultiDB_RAG_AI)
 [![Stars](https://img.shields.io/github/stars/asq-sheriff/MultiDB_RAG_AI?style=social)](https://github.com/asq-sheriff/MultiDB_RAG_AI)
 
 **RAG Pipeline | Vector Search | LLM Integration | Multi-Database Architecture**
