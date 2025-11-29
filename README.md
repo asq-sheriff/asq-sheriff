@@ -106,6 +106,10 @@ A production-ready Retrieval-Augmented Generation (RAG) system demonstrating pol
 
 **Production-Grade Multi-Agent Therapeutic AI | 17 Microservices | 100% Crisis Detection | HIPAA Compliant**
 
+![Healthcare](https://img.shields.io/badge/Healthcare-AI-red?style=flat-square)
+![Crisis](https://img.shields.io/badge/Crisis_Detection-100%25_Recall-success?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-17_Services-blue?style=flat-square)
+
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-1.25-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.8-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
