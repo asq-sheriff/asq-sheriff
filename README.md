@@ -265,25 +265,37 @@ flowchart LR
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2025-2026 Roadmap
 
-- [ ] Launch production Emotional AI Companion platform (HIPAA-compliant)
-- [ ] Expand AI-Production-Checklist into comprehensive training program
-- [ ] Contribute to open-source healthcare AI standards
-- [ ] Publish technical blog series on production RAG and multi-agent patterns
-- [ ] Achieve Google Professional ML Engineer certification
+- [x] **Lilo Engine Core** — 17 microservices, 7 therapeutic agents, 100% crisis recall
+- [ ] **Safety-Critical Infrastructure** — IEC 61508 compliant safety kernel, formal verification
+- [ ] **EHR Integration** — Epic & Cerner via FHIR R4, SMART on FHIR OAuth 2.0
+- [ ] **Edge-Cloud Architecture** — K3s + Jetson for <50ms local inference
+- [ ] **FDA De Novo Submission** — Clinical validation with 100 residents across 3 facilities
+- [ ] **RPM Device Integration** — Vitals monitoring with Medicare billing ($1,560/patient/year)
 
 ---
 
 ## 💬 Current Focus
 
 ```python
-current_initiative = {
-    "project": "Emotional AI Companion",
-    "phase": "Production Infrastructure Build",
-    "stack": ["LangGraph", "Ray Serve", "PostgreSQL", "Terraform"],
-    "compliance": ["HIPAA", "FDA 21 CFR Part 11", "CMS 5-Star"],
-    "differentiator": "Multi-agent therapeutic AI with durable conversation state"
+lilo_engine = {
+    "project": "Lilo Engine - Therapeutic AI Platform",
+    "phase": "Phase 1: Safety-Critical Infrastructure",
+    "status": "Production Ready (Core Platform)",
+    "stack": {
+        "ai": ["Qwen 2.5-7B", "BGE Embeddings", "Whisper STT", "Piper TTS"],
+        "backend": ["Go 1.25", "Python 3.12", "FastAPI", "Gin"],
+        "infra": ["Docker", "PostgreSQL + pgvector", "Redis", "Langfuse"]
+    },
+    "compliance": ["HIPAA §164.312", "FDA 21 CFR Part 11", "ISO 13485"],
+    "metrics": {
+        "crisis_detection": "100% recall, <1s response",
+        "therapeutic_quality": "93.3/100 score",
+        "microservices": 17,
+        "therapeutic_agents": 7
+    },
+    "next_milestone": "Safety Kernel + Device Abstraction Layer"
 }
 ```
 
