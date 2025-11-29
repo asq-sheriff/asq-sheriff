@@ -56,7 +56,30 @@
 
 ## 🏆 Featured Projects
 
-### [AI-Production-Checklist](https://github.com/asq-sheriff/AI-Production-Checklist) 🆕
+### [Lilo Engine - Therapeutic AI Platform](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion)
+[![Stars](https://img.shields.io/github/stars/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion?style=social)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion)
+
+**Production-Grade Multi-Agent Therapeutic AI | 17 Microservices | 100% Crisis Detection | HIPAA Compliant**
+
+![Healthcare](https://img.shields.io/badge/Healthcare-AI-red?style=flat-square)
+![Crisis](https://img.shields.io/badge/Crisis_Detection-100%25_Recall-success?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-17_Services-blue?style=flat-square)
+
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-1.25-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.8-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HIPAA](https://img.shields.io/badge/HIPAA-Compliant-success?style=flat-square)
+
+A complete AI system I designed and built from scratch for elderly mental health care:
+
+- **Crisis Detection**: 100% recall, <1s response time (30x faster than regulatory requirement)
+- **7 Therapeutic Agents**: Evidence-based interventions (Behavioral Activation, Reminiscence, Grounding)
+- **17 Microservices**: Go + Python distributed architecture with full HIPAA compliance
+- **RAG Pipeline**: 6 parallel retrieval streams with BGE embeddings + Qwen 2.5-7B LLM
+
+---
+
+### [AI-Production-Checklist](https://github.com/asq-sheriff/AI-Production-Checklist)
 [![Stars](https://img.shields.io/github/stars/asq-sheriff/AI-Production-Checklist?style=social)](https://github.com/asq-sheriff/AI-Production-Checklist)
 
 **The Ultimate Enterprise AI Deployment Guide | 170+ Checklist Items | Architecture Diagrams**
@@ -98,29 +121,6 @@ A production-ready Retrieval-Augmented Generation (RAG) system demonstrating pol
 - **AI/ML Layer**: OpenAI GPT, Sentence Transformers embeddings, local LLM support (Qwen)
 - **Enterprise Patterns**: JWT/OAuth2 auth, billing service, rate limiting, structured logging
 - **Two-Plane Architecture**: Independent scaling with zero-downtime deployments
-
----
-
-### [Lilo Engine - Therapeutic AI Platform](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion)
-[![Stars](https://img.shields.io/github/stars/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion?style=social)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion)
-
-**Production-Grade Multi-Agent Therapeutic AI | 17 Microservices | 100% Crisis Detection | HIPAA Compliant**
-
-![Healthcare](https://img.shields.io/badge/Healthcare-AI-red?style=flat-square)
-![Crisis](https://img.shields.io/badge/Crisis_Detection-100%25_Recall-success?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-17_Services-blue?style=flat-square)
-
-![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-1.25-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.8-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HIPAA](https://img.shields.io/badge/HIPAA-Compliant-success?style=flat-square)
-
-A complete AI system I designed and built from scratch for elderly mental health care:
-
-- **Crisis Detection**: 100% recall, <1s response time (30x faster than regulatory requirement)
-- **7 Therapeutic Agents**: Evidence-based interventions (Behavioral Activation, Reminiscence, Grounding)
-- **17 Microservices**: Go + Python distributed architecture with full HIPAA compliance
-- **RAG Pipeline**: 6 parallel retrieval streams with BGE embeddings + Qwen 2.5-7B LLM
 
 ---
 
