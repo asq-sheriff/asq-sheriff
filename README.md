@@ -19,7 +19,7 @@
 
 ---
 
-## 🎯 Value Proposition
+## Value Proposition
 
 > **I turn AI demos into production systems that pass regulatory audits, scale to millions, and deliver measurable business outcomes.**
 
@@ -27,7 +27,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Quantifiable Achievements
+### Quantifiable Achievements
 
 | Metric | Result |
 |--------|--------|
@@ -40,7 +40,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Domain Expertise
+### Domain Expertise
 
 - **Healthcare AI**: FDA-ready therapeutic systems
 - **Enterprise Scale**: Blue Cross (12 yrs), IBM Labs (10 yrs)
@@ -54,16 +54,12 @@
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 ### [Lilo Engine - Therapeutic AI Platform](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion)
 [![Stars](https://img.shields.io/github/stars/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion?style=social)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion)
 
 **Production-Grade Multi-Agent Therapeutic AI | 17 Microservices | 100% Crisis Detection | HIPAA Compliant**
-
-![Healthcare](https://img.shields.io/badge/Healthcare-AI-red?style=flat-square)
-![Crisis](https://img.shields.io/badge/Crisis_Detection-100%25_Recall-success?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-17_Services-blue?style=flat-square)
 
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-1.25-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -72,10 +68,21 @@
 
 A complete AI system I designed and built from scratch for elderly mental health care:
 
-- **Crisis Detection**: 100% recall, <1s response time (30x faster than regulatory requirement)
-- **7 Therapeutic Agents**: Evidence-based interventions (Behavioral Activation, Reminiscence, Grounding)
-- **17 Microservices**: Go + Python distributed architecture with full HIPAA compliance
-- **RAG Pipeline**: 6 parallel retrieval streams with BGE embeddings + Qwen 2.5-7B LLM
+| Metric | Achievement |
+|--------|-------------|
+| **Crisis Detection** | 100% recall, <1s response (30x faster than regulatory) |
+| **Latency** | ~200ms P50, ~450ms P95 (full request-to-response) |
+| **Caching** | 4-layer strategy with 60-70% hit rate |
+| **Intent Classification** | 303 prototypes across 10 therapeutic categories |
+| **Market Opportunity** | $3T+ TAM, 30,600 US facilities |
+
+**Technical Highlights**:
+- 7 therapeutic agents with evidence-based interventions (C-SSRS compliant)
+- 5-level risk stratification (Joint Commission compliant)
+- RAG pipeline with 6 parallel streams (asyncio.gather ~2x speedup)
+- Qwen 2.5-7B on Apple Silicon (Metal GPU, 45-50 tok/s)
+
+[View Demo](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/DEMO_SHOWCASE.md) | [Technical Deep Dive](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/TECHNICAL_PORTFOLIO.md) | [Investor Overview](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/INVESTOR_OVERVIEW.md)
 
 ---
 
@@ -88,12 +95,16 @@ A complete AI system I designed and built from scratch for elderly mental health
 ![MLOps](https://img.shields.io/badge/MLOps-Best_Practices-blue?style=flat-square)
 ![Governance](https://img.shields.io/badge/AI_Governance-EU_AI_Act-orange?style=flat-square)
 
-The comprehensive checklist for taking AI from demo to production—addressing why **87% of ML projects fail** to reach deployment. Includes:
+Addressing why **87% of ML projects fail** to reach deployment:
 
-- **14 Critical Sections**: Architecture, Security, Red Teaming, FinOps, Governance, Evaluation
-- **Interactive Tools**: HTML checklist with auto-scoring, CSV template, architecture diagrams
-- **Industry Frameworks**: Gartner AI Roadmap, OWASP LLM Top 10, NIST AI RMF
-- **2025 Statistics**: Real data on AI production challenges and market trends
+| Metric | Value |
+|--------|-------|
+| **Checklist Items** | 170+ production-ready checks |
+| **Critical Sections** | 14 (Architecture, Security, Red Teaming, FinOps, Governance) |
+| **Industry Frameworks** | Gartner AI Roadmap, OWASP LLM Top 10, NIST AI RMF |
+| **Interactive Tools** | HTML auto-scoring checklist, CSV template, Mermaid diagrams |
+
+**Why This Matters**: Based on 28 years of enterprise systems delivery and seeing countless AI projects fail at the production stage.
 
 > *"After 28 years of enterprise systems and seeing countless AI projects fail, I compiled everything you need to consider before deploying AI to real users."*
 
@@ -107,20 +118,21 @@ The comprehensive checklist for taking AI from demo to production—addressing w
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![ScyllaDB](https://img.shields.io/badge/ScyllaDB-6CD5E7?style=flat-square&logo=scylladb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-A production-ready Retrieval-Augmented Generation (RAG) system demonstrating polyglot persistence, two-plane architecture, and enterprise patterns:
+Production-ready RAG demonstrating polyglot persistence and enterprise patterns:
 
-- **RAG Pipeline**: LangChain orchestration with semantic search and context retrieval
-- **Polyglot Persistence**: MongoDB Atlas (vector search), PostgreSQL (ACID), ScyllaDB (high-throughput logs), Redis (cache)
-- **AI/ML Layer**: OpenAI GPT, Sentence Transformers embeddings, local LLM support (Qwen)
-- **Enterprise Patterns**: JWT/OAuth2 auth, billing service, rate limiting, structured logging
-- **Two-Plane Architecture**: Independent scaling with zero-downtime deployments
+| Component | Implementation |
+|-----------|----------------|
+| **RAG Pipeline** | LangChain orchestration with semantic search |
+| **Vector Store** | MongoDB Atlas with embedding indexing |
+| **Polyglot Persistence** | PostgreSQL (ACID), ScyllaDB (logs), Redis (cache) |
+| **LLM Support** | OpenAI GPT + local Qwen fallback |
+| **Architecture** | Two-plane design for independent scaling |
+
+**Enterprise Patterns**: JWT/OAuth2 auth, billing service, rate limiting, structured logging, zero-downtime deployments
 
 ---
 
@@ -185,7 +197,7 @@ flowchart LR
 
 ---
 
-## 🛠 Technical Stack
+## Technical Stack
 
 <div align="center">
 
@@ -225,25 +237,25 @@ flowchart LR
 
 ---
 
-## 🎓 Certifications & Credentials
+## Certifications & Credentials
 
 <table>
 <tr>
 <td width="50%">
 
 **Completed**
-- ✅ **TOGAF 9.1** Certified Enterprise Architect
-- ✅ **HL7 FHIR** Healthcare Interoperability
-- ✅ **HIPAA** Security Officer
-- ✅ **ITIL 4** Foundation
+- **TOGAF 9.1** Certified Enterprise Architect
+- **HL7 FHIR** Healthcare Interoperability
+- **HIPAA** Security Officer
+- **ITIL 4** Foundation
 
 </td>
 <td width="50%">
 
 **In Progress**
-- 🔄 Google Professional ML Engineer
-- 🔄 Google Cloud Professional Architect
-- 🔄 AWS Solutions Architect Professional
+- Google Professional ML Engineer
+- Google Cloud Professional Architect
+- AWS Solutions Architect Professional
 
 </td>
 </tr>
@@ -251,7 +263,7 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -265,7 +277,7 @@ flowchart LR
 
 ---
 
-## 🎯 2025-2026 Roadmap
+## Roadmap
 
 - [x] **Lilo Engine Core** — 17 microservices, 7 therapeutic agents, 100% crisis recall
 - [ ] **Safety-Critical Infrastructure** — IEC 61508 compliant safety kernel, formal verification
@@ -276,7 +288,7 @@ flowchart LR
 
 ---
 
-## 💬 Current Focus
+## Current Focus
 
 ```python
 lilo_engine = {
@@ -305,7 +317,7 @@ lilo_engine = {
 
 <div align="center">
 
-## 📬 Let's Connect
+## Let's Connect
 
 **Looking for a Principal/Staff AI Architect who can deliver production AI systems?**
 
