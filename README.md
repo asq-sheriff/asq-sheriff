@@ -273,29 +273,27 @@ flowchart LR
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://www.opengroup.org/togaf">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TOGAF_Logo.svg/200px-TOGAF_Logo.svg.png" width="100" alt="TOGAF"/>
+<a href="https://www.credly.com/org/the-open-group/badge/the-open-group-certified-togaf-9-certified">
+<img src="https://images.credly.com/size/340x340/images/24c75efb-9a99-47f7-ab6d-fcd359534c1e/badge-togaf9-certified.png" width="100" alt="TOGAF 9 Certified"/>
 <br/><b>TOGAF 9.1</b>
 <br/><sub>Certified Enterprise Architect</sub>
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://www.hl7.org/fhir/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hl7_logo.svg/200px-Hl7_logo.svg.png" width="100" alt="HL7 FHIR"/>
+<a href="https://www.hl7.org/certification/fhir.cfm">
+<img src="https://badgelist.s3.amazonaws.com/u/badge/5994610a674aa80004598fca/custom_image/medium_badge.png" width="100" alt="HL7 FHIR Proficient"/>
 <br/><b>HL7 FHIR</b>
 <br/><sub>Healthcare Interoperability</sub>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://www.hhs.gov/hipaa/">
-<img src="https://cdn.simpleicons.org/shield/22C55E" width="60" alt="HIPAA"/>
-<br/><b>HIPAA</b>
-<br/><sub>Security Officer</sub>
+<img src="https://img.shields.io/badge/HIPAA-Security_Officer-22C55E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxTDMgNXY2YzAgNS41NSAzLjg0IDEwLjc0IDkgMTIgNS4xNi0xLjI2IDktNi40NSA5LTEyVjVsLTktNHoiLz48L3N2Zz4=" width="150" alt="HIPAA Security Officer"/>
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://www.axelos.com/certifications/itil-service-management">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ITIL_logo.svg/200px-ITIL_logo.svg.png" width="100" alt="ITIL"/>
+<a href="https://www.credly.com/org/peoplecert/badge/itil-4-foundation">
+<img src="https://images.credly.com/size/340x340/images/8b943c4b-c186-4e9f-84aa-004322b76eed/image.png" width="100" alt="ITIL 4 Foundation"/>
 <br/><b>ITIL 4</b>
 <br/><sub>Foundation</sub>
 </a>
@@ -310,15 +308,15 @@ flowchart LR
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://cloud.google.com/certification/machine-learning-engineer">
-<img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="60" alt="Google Cloud"/>
+<a href="https://www.credly.com/org/google-cloud/badge/professional-machine-learning-engineer">
+<img src="https://images.credly.com/size/340x340/images/00096281-8052-4cf1-b412-37702a94b539/image.png" width="100" alt="Google Cloud Professional ML Engineer"/>
 <br/><b>Google Cloud</b>
 <br/><sub>Professional Machine Learning Engineer</sub>
 </a>
 </td>
 <td align="center" width="50%">
-<a href="https://cloud.google.com/certification/cloud-architect">
-<img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="60" alt="Google Cloud"/>
+<a href="https://www.credly.com/org/google-cloud/badge/professional-cloud-architect-certification">
+<img src="https://images.credly.com/size/340x340/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" width="100" alt="Google Cloud Professional Cloud Architect"/>
 <br/><b>Google Cloud</b>
 <br/><sub>Professional Cloud Architect</sub>
 </a>
