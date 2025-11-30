@@ -330,37 +330,86 @@ flowchart LR
 
 ## Roadmap
 
-- [x] **Lilo Engine Core** — 17 microservices, 7 therapeutic agents, 100% crisis recall
-- [ ] **Safety-Critical Infrastructure** — IEC 61508 compliant safety kernel, formal verification
-- [ ] **EHR Integration** — Epic & Cerner via FHIR R4, SMART on FHIR OAuth 2.0
-- [ ] **Edge-Cloud Architecture** — K3s + Jetson for <50ms local inference
-- [ ] **FDA De Novo Submission** — Clinical validation with 100 residents across 3 facilities
-- [ ] **RPM Device Integration** — Vitals monitoring with Medicare billing ($1,560/patient/year)
+<table>
+<tr>
+<th>Milestone</th>
+<th>Description</th>
+<th>Status</th>
+</tr>
+<tr>
+<td><b>Lilo Engine Core</b></td>
+<td>17 microservices, 7 therapeutic agents, 100% crisis recall</td>
+<td><img src="https://img.shields.io/badge/Complete-22C55E?style=flat-square" alt="Complete"/></td>
+</tr>
+<tr>
+<td><b>Safety-Critical Infrastructure</b></td>
+<td>IEC 61508 compliant safety kernel, formal verification</td>
+<td><img src="https://img.shields.io/badge/In_Progress-3B82F6?style=flat-square" alt="In Progress"/></td>
+</tr>
+<tr>
+<td><b>EHR Integration</b></td>
+<td>Epic & Cerner via FHIR R4, SMART on FHIR OAuth 2.0</td>
+<td><img src="https://img.shields.io/badge/Q2_2026-6B7280?style=flat-square" alt="Q2 2026"/></td>
+</tr>
+<tr>
+<td><b>Edge-Cloud Architecture</b></td>
+<td>K3s + Jetson for <50ms local inference</td>
+<td><img src="https://img.shields.io/badge/Q3_2026-6B7280?style=flat-square" alt="Q3 2026"/></td>
+</tr>
+<tr>
+<td><b>FDA De Novo Submission</b></td>
+<td>Clinical validation with 100 residents across 3 facilities</td>
+<td><img src="https://img.shields.io/badge/Q4_2026-6B7280?style=flat-square" alt="Q4 2026"/></td>
+</tr>
+<tr>
+<td><b>RPM Device Integration</b></td>
+<td>Vitals monitoring with Medicare billing ($1,560/patient/year)</td>
+<td><img src="https://img.shields.io/badge/2027-6B7280?style=flat-square" alt="2027"/></td>
+</tr>
+</table>
 
 ---
 
 ## Current Focus
 
-```python
-lilo_engine = {
-    "project": "Lilo Engine - Therapeutic AI Platform",
-    "phase": "Phase 1: Safety-Critical Infrastructure",
-    "status": "Production Ready (Core Platform)",
-    "stack": {
-        "ai": ["Qwen 2.5-7B", "BGE Embeddings", "Whisper STT", "Piper TTS"],
-        "backend": ["Go 1.25", "Python 3.12", "FastAPI", "Gin"],
-        "infra": ["Docker", "PostgreSQL + pgvector", "Redis", "Langfuse"]
-    },
-    "compliance": ["HIPAA §164.312", "FDA 21 CFR Part 11", "ISO 13485"],
-    "metrics": {
-        "crisis_detection": "100% recall, <1s response",
-        "therapeutic_quality": "93.3/100 score",
-        "microservices": 17,
-        "therapeutic_agents": 7
-    },
-    "next_milestone": "Safety Kernel + Device Abstraction Layer"
-}
-```
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Lilo Engine Phase 2: Safety-Critical Infrastructure
+
+Building the next evolution of the therapeutic AI platform with formal safety guarantees.
+
+**Next Milestone:** Safety Kernel + Device Abstraction Layer
+
+| Target | Specification |
+|--------|---------------|
+| **Safety Standard** | IEC 61508 SIL 2 |
+| **Formal Verification** | TLA+ / Alloy specifications |
+| **Edge Latency** | <50ms local inference |
+| **Device Support** | Jetson Orin + Apple Silicon |
+
+</td>
+<td width="40%" valign="top">
+
+### Platform Metrics
+
+| Metric | Current |
+|--------|---------|
+| **Crisis Detection** | 100% recall, <1s |
+| **Therapeutic Score** | 93.3/100 |
+| **Microservices** | 17 |
+| **AI Agents** | 7 |
+
+### Compliance Targets
+
+![HIPAA](https://img.shields.io/badge/HIPAA-§164.312-22C55E?style=flat-square)
+![FDA](https://img.shields.io/badge/FDA-21_CFR_Part_11-3B82F6?style=flat-square)
+![ISO](https://img.shields.io/badge/ISO-13485-6B7280?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 > _"The difference between a demo and production isn't the AI model—it's the 90% of 'boring' stuff that makes it reliable, secure, and scalable."_
 
