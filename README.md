@@ -89,6 +89,7 @@ A complete AI system I designed and built from scratch for elderly mental health
 
 [![Executive Summary](https://img.shields.io/badge/Executive-Summary-orange?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/EXECUTIVE_SUMMARY.md)
 [![Investor Overview](https://img.shields.io/badge/Investor-Overview-red?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/INVESTOR_OVERVIEW.md)
+[![Partnership Models](https://img.shields.io/badge/Partnership-Models-yellow?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/PARTNERSHIP_OPPORTUNITIES.md)
 [![FAQ](https://img.shields.io/badge/FAQ-gray?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/FAQ.md)
 
 ---
