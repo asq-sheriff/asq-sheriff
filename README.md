@@ -270,19 +270,61 @@ flowchart LR
 
 ## Certifications & Credentials
 
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://www.opengroup.org/togaf">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TOGAF_Logo.svg/200px-TOGAF_Logo.svg.png" width="100" alt="TOGAF"/>
+<br/><b>TOGAF 9.1</b>
+<br/><sub>Certified Enterprise Architect</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://www.hl7.org/fhir/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hl7_logo.svg/200px-Hl7_logo.svg.png" width="100" alt="HL7 FHIR"/>
+<br/><b>HL7 FHIR</b>
+<br/><sub>Healthcare Interoperability</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://www.hhs.gov/hipaa/">
+<img src="https://cdn.simpleicons.org/shield/22C55E" width="60" alt="HIPAA"/>
+<br/><b>HIPAA</b>
+<br/><sub>Security Officer</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://www.axelos.com/certifications/itil-service-management">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ITIL_logo.svg/200px-ITIL_logo.svg.png" width="100" alt="ITIL"/>
+<br/><b>ITIL 4</b>
+<br/><sub>Foundation</sub>
+</a>
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-**Completed**
-
-[![TOGAF 9.1](https://img.shields.io/badge/TOGAF_9.1-Certified_Enterprise_Architect-blue?style=for-the-badge&logo=opengroup&logoColor=white)](https://www.opengroup.org/togaf)
-[![HL7 FHIR](https://img.shields.io/badge/HL7_FHIR-Healthcare_Interoperability-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)](https://www.hl7.org/fhir/)
-[![HIPAA](https://img.shields.io/badge/HIPAA-Security_Officer-success?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxTDMgNXY2YzAgNS41NSAzLjg0IDEwLjc0IDkgMTIgNS4xNi0xLjI2IDktNi40NSA5LTEyVjVsLTktNHptMCAyLjE4bDcgMy4xMnY1LjdjMCA0LjgzLTMuMjMgOS4zNi03IDEwLjU4VjMuMTh6Ii8+PC9zdmc+)](https://www.hhs.gov/hipaa/)
-[![ITIL 4](https://img.shields.io/badge/ITIL_4-Foundation-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAzSDVjLTEuMSAwLTIgLjktMiAydjE0YzAgMS4xLjkgMiAyIDJoMTRjMS4xIDAgMi0uOSAyLTJWNWMwLTEuMS0uOS0yLTItMnptLTUgMTRIN3YtMmg3djJ6bTMtNEg3di0yaDEwdjJ6bTAtNEg3VjdoMTB2MnoiLz48L3N2Zz4=)](https://www.axelos.com/certifications/itil-service-management)
 
 **In Progress**
 
-[![Google ML Engineer](https://img.shields.io/badge/Google-Professional_ML_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/certification/machine-learning-engineer)
-[![Google Cloud Architect](https://img.shields.io/badge/Google-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/certification/cloud-architect)
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://cloud.google.com/certification/machine-learning-engineer">
+<img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="60" alt="Google Cloud"/>
+<br/><b>Google Cloud</b>
+<br/><sub>Professional Machine Learning Engineer</sub>
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://cloud.google.com/certification/cloud-architect">
+<img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="60" alt="Google Cloud"/>
+<br/><b>Google Cloud</b>
+<br/><sub>Professional Cloud Architect</sub>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
