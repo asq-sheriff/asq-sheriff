@@ -180,6 +180,11 @@ A reusable Terraform module for deploying secure, scalable AWS VPC infrastructur
 - **Enterprise Patterns**: Consistent tagging, input validation, modular structure
 - **CI/CD Pipeline**: GitHub Actions with automated Terraform validation
 
+[![Documentation](https://img.shields.io/badge/Documentation-blue?style=for-the-badge)](https://github.com/asq-sheriff/terraform-aws-multi-az-production/blob/main/docs/README.md)
+[![Changelog](https://img.shields.io/badge/Changelog-green?style=for-the-badge)](https://github.com/asq-sheriff/terraform-aws-multi-az-production/blob/main/CHANGELOG.md)
+[![Contributing](https://img.shields.io/badge/Contributing-orange?style=for-the-badge)](https://github.com/asq-sheriff/terraform-aws-multi-az-production/blob/main/CONTRIBUTING.md)
+[![MIT License](https://img.shields.io/badge/MIT-License-gray?style=for-the-badge)](https://github.com/asq-sheriff/terraform-aws-multi-az-production/blob/main/LICENSE)
+
 ---
 
 ### [cookiecutter-modern-python](https://github.com/asq-sheriff/cookiecutter-modern-python)
@@ -214,6 +219,12 @@ flowchart LR
 ```
 
 > *"The foundation I use for all my AI/ML projects—consistent tooling means I can focus on solving problems, not configuring environments."*
+
+[![Quick Start](https://img.shields.io/badge/Quick-Start-blue?style=for-the-badge)](https://github.com/asq-sheriff/cookiecutter-modern-python#quick-start)
+[![Features](https://img.shields.io/badge/Features-green?style=for-the-badge)](https://github.com/asq-sheriff/cookiecutter-modern-python#features)
+[![Tool Stack](https://img.shields.io/badge/Tool-Stack-purple?style=for-the-badge)](https://github.com/asq-sheriff/cookiecutter-modern-python#tool-stack)
+[![Pre-commit Config](https://img.shields.io/badge/Pre--commit-Config-orange?style=for-the-badge)](https://github.com/asq-sheriff/cookiecutter-modern-python/blob/main/.pre-commit-config.yaml)
+[![MIT License](https://img.shields.io/badge/MIT-License-gray?style=for-the-badge)](https://github.com/asq-sheriff/cookiecutter-modern-python/blob/main/LICENSE)
 
 ---
 
