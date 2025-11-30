@@ -148,6 +148,12 @@ Production-ready RAG demonstrating polyglot persistence and enterprise patterns:
 
 **Enterprise Patterns**: JWT/OAuth2 auth, billing service, rate limiting, structured logging, zero-downtime deployments
 
+[![System Design](https://img.shields.io/badge/System-Design-blue?style=for-the-badge)](https://github.com/asq-sheriff/MultiDB_RAG_AI/blob/main/docs/SYSTEM_DESIGN.md)
+[![Architecture](https://img.shields.io/badge/Architecture-Overview-green?style=for-the-badge)](https://github.com/asq-sheriff/MultiDB_RAG_AI/blob/main/docs/ARCHITECTURE.md)
+[![Codebase](https://img.shields.io/badge/Codebase-Overview-purple?style=for-the-badge)](https://github.com/asq-sheriff/MultiDB_RAG_AI/blob/main/docs/CODEBASE_OVERVIEW.md)
+[![RAG Fundamentals](https://img.shields.io/badge/RAG-Fundamentals-teal?style=for-the-badge)](https://github.com/asq-sheriff/MultiDB_RAG_AI/blob/main/docs/RAG_FUNDAMENTALS.md)
+[![Roadmap](https://img.shields.io/badge/Roadmap-orange?style=for-the-badge)](https://github.com/asq-sheriff/MultiDB_RAG_AI/blob/main/docs/ROADMAP.md)
+
 ---
 
 ### [terraform-aws-multi-az-production](https://github.com/asq-sheriff/terraform-aws-multi-az-production)
