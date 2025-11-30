@@ -293,20 +293,6 @@ flowchart LR
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asq-sheriff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asq-sheriff&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asq-sheriff&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Roadmap
 
 - [x] **Lilo Engine Core** — 17 microservices, 7 therapeutic agents, 100% crisis recall
