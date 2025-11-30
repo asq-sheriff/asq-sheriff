@@ -34,7 +34,7 @@
 | **Therapeutic Quality Score** | 93.3/100 (40% above CMS 5-Star) |
 | **Crisis Detection Recall** | 100% with <5% false positives |
 | **System Latency** | <100ms @ 1000+ concurrent users |
-| **Production AI Systems** | 28 years enterprise delivery |
+| **Production AI Systems** | 27 years enterprise delivery |
 | **Healthcare Members Served** | 6M+ at Blue Cross Blue Shield |
 
 </td>
@@ -112,9 +112,9 @@ Addressing why **87% of ML projects fail** to reach deployment:
 | **Industry Frameworks** | Gartner AI Roadmap, OWASP LLM Top 10, NIST AI RMF |
 | **Interactive Tools** | HTML auto-scoring checklist, CSV template, Mermaid diagrams |
 
-**Why This Matters**: Based on 28 years of enterprise systems delivery and seeing countless AI projects fail at the production stage.
+**Why This Matters**: Based on 27 years of enterprise systems delivery and seeing countless AI projects fail at the production stage.
 
-> *"After 28 years of enterprise systems and seeing countless AI projects fail, I compiled everything you need to consider before deploying AI to real users."*
+> *"After 27 years of enterprise systems and seeing countless AI projects fail, I compiled everything you need to consider before deploying AI to real users."*
 
 [![Interactive Checklist](https://img.shields.io/badge/Interactive-Checklist-blue?style=for-the-badge)](https://github.com/asq-sheriff/AI-Production-Checklist/blob/main/ai-production-checklist.html)
 [![CSV Template](https://img.shields.io/badge/CSV-Template-green?style=for-the-badge)](https://github.com/asq-sheriff/AI-Production-Checklist/blob/main/AI-Production-Checklist-Template.csv)
@@ -427,7 +427,7 @@ Building the next evolution of the therapeutic AI platform with formal safety gu
 
 ---
 
-*28 years of progressive technical leadership | C-suite vision to hands-on delivery | Enterprise AI at scale*
+*27 years of progressive technical leadership | C-suite vision to hands-on delivery | Enterprise AI at scale*
 
 **[Pragmatic Logic AI](https://pragmaticlogic.ai)**
 
