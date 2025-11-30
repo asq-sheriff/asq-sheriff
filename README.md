@@ -115,6 +115,12 @@ Addressing why **87% of ML projects fail** to reach deployment:
 
 > *"After 28 years of enterprise systems and seeing countless AI projects fail, I compiled everything you need to consider before deploying AI to real users."*
 
+[![Interactive Checklist](https://img.shields.io/badge/Interactive-Checklist-blue?style=for-the-badge)](https://github.com/asq-sheriff/AI-Production-Checklist/blob/main/ai-production-checklist.html)
+[![CSV Template](https://img.shields.io/badge/CSV-Template-green?style=for-the-badge)](https://github.com/asq-sheriff/AI-Production-Checklist/blob/main/AI-Production-Checklist-Template.csv)
+[![Architecture Diagram](https://img.shields.io/badge/Architecture-Diagram-purple?style=for-the-badge)](https://github.com/asq-sheriff/AI-Production-Checklist/blob/main/ai-production-architecture.png)
+[![Contributing](https://img.shields.io/badge/Contributing-orange?style=for-the-badge)](https://github.com/asq-sheriff/AI-Production-Checklist/blob/main/CONTRIBUTING.md)
+[![Security](https://img.shields.io/badge/Security-red?style=for-the-badge)](https://github.com/asq-sheriff/AI-Production-Checklist/blob/main/SECURITY.md)
+
 ---
 
 ### [MultiDB_RAG_AI](https://github.com/asq-sheriff/MultiDB_RAG_AI)
