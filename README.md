@@ -82,7 +82,14 @@ A complete AI system I designed and built from scratch for elderly mental health
 - RAG pipeline with 6 parallel streams (asyncio.gather ~2x speedup)
 - Qwen 2.5-7B on Apple Silicon (Metal GPU, 45-50 tok/s)
 
-[View Demo](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/DEMO_SHOWCASE.md) | [Technical Deep Dive](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/TECHNICAL_PORTFOLIO.md) | [Investor Overview](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/INVESTOR_OVERVIEW.md)
+[![View Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/DEMO_SHOWCASE.md)
+[![Technical Portfolio](https://img.shields.io/badge/Technical-Portfolio-green?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/TECHNICAL_PORTFOLIO.md)
+[![Code Samples](https://img.shields.io/badge/Code-Samples-purple?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/CODE_SAMPLES.md)
+[![Process Flow](https://img.shields.io/badge/Process-Flow-teal?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/PROCESS_FLOW.md)
+
+[![Executive Summary](https://img.shields.io/badge/Executive-Summary-orange?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/EXECUTIVE_SUMMARY.md)
+[![Investor Overview](https://img.shields.io/badge/Investor-Overview-red?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/INVESTOR_OVERVIEW.md)
+[![FAQ](https://img.shields.io/badge/FAQ-gray?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/FAQ.md)
 
 ---
 
