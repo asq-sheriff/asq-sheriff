@@ -253,9 +253,8 @@ flowchart LR
 <td width="50%">
 
 **In Progress**
-- Google Professional ML Engineer
-- Google Cloud Professional Architect
-- AWS Solutions Architect Professional
+- Google Professional Machine Learning Engineer
+- Google Professional Cloud Architect
 
 </td>
 </tr>
