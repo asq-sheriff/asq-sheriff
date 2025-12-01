@@ -97,30 +97,36 @@ A complete AI system I designed and built from scratch for elderly mental health
 ### [AI-Production-Checklist](https://github.com/asq-sheriff/AI-Production-Checklist)
 [![Stars](https://img.shields.io/github/stars/asq-sheriff/AI-Production-Checklist?style=social)](https://github.com/asq-sheriff/AI-Production-Checklist)
 
-**The Ultimate Enterprise AI Deployment Guide | 170+ Checklist Items | Architecture Diagrams**
+**The Definitive Enterprise AI Deployment Guide | 400+ Checklist Items | 20 Domains | CRISP-DM Aligned**
 
 ![AI](https://img.shields.io/badge/AI_Production-Ready-success?style=flat-square)
 ![MLOps](https://img.shields.io/badge/MLOps-Best_Practices-blue?style=flat-square)
+![LLMOps](https://img.shields.io/badge/LLMOps-GenAI-purple?style=flat-square)
 ![Governance](https://img.shields.io/badge/AI_Governance-EU_AI_Act-orange?style=flat-square)
 
 Addressing why **87% of ML projects fail** to reach deployment:
 
 | Metric | Value |
 |--------|-------|
-| **Checklist Items** | 170+ production-ready checks |
-| **Critical Sections** | 14 (Architecture, Security, Red Teaming, FinOps, Governance) |
-| **Industry Frameworks** | Gartner AI Roadmap, OWASP LLM Top 10, NIST AI RMF |
-| **Interactive Tools** | HTML auto-scoring checklist, CSV template, Mermaid diagrams |
+| **Checklist Items** | 400+ production-ready checks |
+| **Domains** | 20 (Architecture, Data Quality, Agentic AI, Security, Red Teaming, FinOps, Governance, Healthcare AI, and more) |
+| **Lifecycle Model** | CRISP-DM aligned 8-stage framework with gate requirements |
+| **Industry Frameworks** | Gartner, OWASP LLM Top 10, NIST AI RMF, EU AI Act, ISO 42001 |
+| **Companion Guides** | 7 deep-dive docs (MLOps Maturity, Lifecycle Stages, Failure Taxonomy, Case Studies) |
 
-**Why This Matters**: Based on 27 years of enterprise systems delivery and seeing countless AI projects fail at the production stage.
+**Key Features**:
+- **MLOps Maturity Model** assessment (Level 0-3)
+- **Healthcare AI** section with FDA regulatory overlay
+- **Assured Intelligence** for safety-critical systems (conformal prediction, causal validation)
+- Interactive HTML checklist with auto-scoring, CSV template, C4 architecture diagrams
 
-> *"After 27 years of enterprise systems and seeing countless AI projects fail, I compiled everything you need to consider before deploying AI to real users."*
+> *"After 27 years of enterprise systems and analyzing $15B+ in AI failures (IBM Watson, Zillow, Babylon Health), I compiled everything you need to avoid the mistakes that killed billion-dollar AI projects."*
 
 [![Interactive Checklist](https://img.shields.io/badge/Interactive-Checklist-blue?style=for-the-badge)](https://github.com/asq-sheriff/AI-Production-Checklist/blob/main/ai-production-checklist.html)
 [![CSV Template](https://img.shields.io/badge/CSV-Template-green?style=for-the-badge)](https://github.com/asq-sheriff/AI-Production-Checklist/blob/main/AI-Production-Checklist-Template.csv)
-[![Architecture Diagram](https://img.shields.io/badge/Architecture-Diagram-purple?style=for-the-badge)](https://github.com/asq-sheriff/AI-Production-Checklist/blob/main/ai-production-architecture.png)
+[![Architecture Diagram](https://img.shields.io/badge/Architecture-Diagram-purple?style=for-the-badge)](https://github.com/asq-sheriff/AI-Production-Checklist/blob/main/AI%20Production%20Checklist.png)
+[![Companion Docs](https://img.shields.io/badge/Companion-Docs-teal?style=for-the-badge)](https://github.com/asq-sheriff/AI-Production-Checklist/tree/main/docs)
 [![Contributing](https://img.shields.io/badge/Contributing-orange?style=for-the-badge)](https://github.com/asq-sheriff/AI-Production-Checklist/blob/main/CONTRIBUTING.md)
-[![Security](https://img.shields.io/badge/Security-red?style=for-the-badge)](https://github.com/asq-sheriff/AI-Production-Checklist/blob/main/SECURITY.md)
 
 ---
 
