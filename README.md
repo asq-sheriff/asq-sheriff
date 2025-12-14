@@ -59,7 +59,7 @@
 ### [Lilo Engine - Therapeutic AI Platform](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion)
 [![Stars](https://img.shields.io/github/stars/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion?style=social)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion)
 
-**Production-Grade Multi-Agent Therapeutic AI | 17 Microservices | 100% Crisis Detection | HIPAA Compliant**
+**Production-Grade Multi-Agent Therapeutic AI | 15 Microservices | 100% Crisis Detection | HIPAA Compliant**
 
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-1.25-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -71,16 +71,23 @@ A complete AI system I designed and built from scratch for elderly mental health
 | Metric | Achievement |
 |--------|-------------|
 | **Crisis Detection** | 100% recall, <1s response (30x faster than regulatory) |
-| **Latency** | ~200ms P50, ~450ms P95 (full request-to-response) |
-| **Caching** | 4-layer strategy with 60-70% hit rate |
-| **Intent Classification** | 303 prototypes across 10 therapeutic categories |
+| **Training Data** | 2,871 crisis patterns + 33,047 therapeutic patterns |
+| **Caching** | 4-layer strategy (L1-L4) with 60-80% hit rate |
+| **Intent Classification** | 214 prototypes across 10 therapeutic categories |
 | **Market Opportunity** | $3T+ TAM, 30,600 US facilities |
 
-**Technical Highlights**:
-- 7 therapeutic agents with evidence-based interventions (C-SSRS compliant)
-- 5-level risk stratification (Joint Commission compliant)
-- RAG pipeline with 6 parallel streams (asyncio.gather ~2x speedup)
-- Qwen 2.5-7B on Apple Silicon (Metal GPU, 45-50 tok/s)
+**6-Layer Architecture**:
+- **Client Layer**: 6 healthcare dashboards + WebSocket + Voice + REST API
+- **AI Services**: AI Router, BGE Embeddings (768-dim), Whisper STT, Piper TTS
+- **Therapeutic Agents**: 7 specialized agents (Conversational, Reminiscence, Behavioral, Grounding, Safety, Social, Web Search)
+- **Safety Layer**: Crisis Detector V4, Ensemble Classifier, Trajectory Analyzer, Crisis Explainer (XAI)
+- **RAG System**: Hybrid retrieval (BM25 + Semantic + RRF + Cross-encoder re-ranking)
+- **Data Layer**: PostgreSQL + pgvector, Redis 4-layer cache, Langfuse monitoring
+
+**ML Models & Clinical Evidence**:
+- Qwen 2.5-7B-Instruct on Apple Silicon (Metal GPU, llama.cpp inference)
+- Evidence-based outcomes: 35% depression reduction, 40-60% anxiety reduction
+- 4-level crisis stratification: IMMEDIATE (<30s) → URGENT → ELEVATED → MODERATE
 
 [![View Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/DEMO_SHOWCASE.md)
 [![Technical Portfolio](https://img.shields.io/badge/Technical-Portfolio-green?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/TECHNICAL_PORTFOLIO.md)
@@ -344,7 +351,7 @@ flowchart LR
 </tr>
 <tr>
 <td><b>Lilo Engine Core</b></td>
-<td>17 microservices, 7 therapeutic agents, 100% crisis recall</td>
+<td>15 microservices, 7 therapeutic agents, 100% crisis recall, 35K+ training patterns</td>
 <td><img src="https://img.shields.io/badge/Complete-22C55E?style=flat-square" alt="Complete"/></td>
 </tr>
 <tr>
@@ -403,9 +410,9 @@ Building the next evolution of the therapeutic AI platform with formal safety gu
 | Metric | Current |
 |--------|---------|
 | **Crisis Detection** | 100% recall, <1s |
-| **Therapeutic Score** | 93.3/100 |
-| **Microservices** | 17 |
-| **AI Agents** | 7 |
+| **Training Patterns** | 35,918 total |
+| **Microservices** | 15 (14 Docker + 1 Host) |
+| **AI Agents** | 7 specialized |
 
 ### Compliance Targets
 
