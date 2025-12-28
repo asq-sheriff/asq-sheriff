@@ -65,16 +65,18 @@
 ![Go](https://img.shields.io/badge/Go-1.25-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.8-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HIPAA](https://img.shields.io/badge/HIPAA-Compliant-success?style=flat-square)
+![Edge-First](https://img.shields.io/badge/Edge--First-90%25_On--Device-purple?style=flat-square)
 
 A complete AI system I designed and built from scratch for elderly mental health care:
 
 | Metric | Achievement |
 |--------|-------------|
 | **Crisis Detection** | 100% recall, <1s response (30x faster than regulatory) |
+| **Edge Architecture** | 90% on-device / 10% cloud processing |
 | **Training Data** | 2,871 crisis patterns + 33,047 therapeutic patterns |
-| **Caching** | 4-layer strategy (L1-L4) with 60-80% hit rate |
+| **FDA Pathway** | De Novo Q2-Q3 2027 (60% probability) |
 | **Intent Classification** | 214 prototypes across 10 therapeutic categories |
-| **Market Opportunity** | $3T+ TAM, 30,600 US facilities |
+| **Market Opportunity** | $1.3B-2.0B TAM (US/EU/UK, 2.5M+ residents) |
 
 **6-Layer Architecture**:
 - **Client Layer**: 6 healthcare dashboards + WebSocket + Voice + REST API
@@ -84,6 +86,12 @@ A complete AI system I designed and built from scratch for elderly mental health
 - **RAG System**: Hybrid retrieval (BM25 + Semantic + RRF + Cross-encoder re-ranking)
 - **Data Layer**: PostgreSQL + pgvector, Redis 4-layer cache, Langfuse monitoring
 
+**Strategic Differentiators**:
+- **Edge-First**: 90% on-device processing, 72-hour offline capability
+- **Affective AI**: Scherer's CPM emotion model, +11.76% engagement improvement
+- **Entity-First NLU**: Context-aware routing for deceased relatives, medical conditions
+- **EU AI Act Ready**: High-risk classification compliance, Article 5(1)(f) exemption
+
 **ML Models & Clinical Evidence**:
 - Qwen 2.5-7B-Instruct on Apple Silicon (Metal GPU, llama.cpp inference)
 - Evidence-based outcomes: 35% depression reduction, 40-60% anxiety reduction
@@ -91,6 +99,7 @@ A complete AI system I designed and built from scratch for elderly mental health
 
 [![View Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/DEMO_SHOWCASE.md)
 [![Technical Portfolio](https://img.shields.io/badge/Technical-Portfolio-green?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/TECHNICAL_PORTFOLIO.md)
+[![Architecture Brief](https://img.shields.io/badge/Architecture-Brief-darkblue?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/TECHNICAL_ARCHITECTURE_BRIEF.md)
 [![Code Samples](https://img.shields.io/badge/Code-Samples-purple?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/CODE_SAMPLES.md)
 [![Process Flow](https://img.shields.io/badge/Process-Flow-teal?style=for-the-badge)](https://github.com/asq-sheriff/SHOWCASE_REPO-Therapeutic_AI_Companion/blob/main/docs/PROCESS_FLOW.md)
 
@@ -366,13 +375,18 @@ flowchart LR
 </tr>
 <tr>
 <td><b>Edge-Cloud Architecture</b></td>
-<td>K3s + Jetson for <50ms local inference</td>
+<td>90% on-device / 10% cloud, K3s + Jetson for <50ms local inference</td>
 <td><img src="https://img.shields.io/badge/Q3_2026-6B7280?style=flat-square" alt="Q3 2026"/></td>
 </tr>
 <tr>
 <td><b>FDA De Novo Submission</b></td>
-<td>Clinical validation with 100 residents across 3 facilities</td>
+<td>Clinical validation (n=100), Q2-Q3 2027 clearance target (60% probability)</td>
 <td><img src="https://img.shields.io/badge/Q4_2026-6B7280?style=flat-square" alt="Q4 2026"/></td>
+</tr>
+<tr>
+<td><b>International Expansion</b></td>
+<td>EU (CE Marking MDR), UK (UKCA), 2.5M+ residents addressable</td>
+<td><img src="https://img.shields.io/badge/2027-6B7280?style=flat-square" alt="2027"/></td>
 </tr>
 <tr>
 <td><b>RPM Device Integration</b></td>
@@ -419,6 +433,7 @@ Building the next evolution of the therapeutic AI platform with formal safety gu
 ![HIPAA](https://img.shields.io/badge/HIPAA-§164.312-22C55E?style=flat-square)
 ![FDA](https://img.shields.io/badge/FDA-21_CFR_Part_11-3B82F6?style=flat-square)
 ![ISO](https://img.shields.io/badge/ISO-13485-6B7280?style=flat-square)
+![EU AI Act](https://img.shields.io/badge/EU_AI_Act-High--Risk-orange?style=flat-square)
 
 </td>
 </tr>
