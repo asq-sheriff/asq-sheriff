@@ -13,8 +13,6 @@
 
 **Keywords:** `AI Architect` `Healthcare AI` `Production MLOps` `LLM Deployment` `RAG Systems` `Enterprise Architecture` `HIPAA Compliance` `Therapeutic AI` `Multi-Agent Systems` `AI Governance`
 
-*Atlanta, GA | Open to Principal/Staff AI Architect Opportunities*
-
 </div>
 
 ---
